@@ -1,0 +1,34 @@
+.header{
+    
+    margin: 35px;
+    margin-bottom: 30px;
+    
+}
+
+.header img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+
+    
+
+}
+
+
+
+.border1{
+    
+    padding: 15px;
+    margin-bottom: 20 px;
+    border: 1px solid;
+    margin-bottom: 35px;
+
+}
+.border1:first-child{
+    margin-right: 10px;
+}
+
+
+.border1:last-child{
+    margin-left: 10px;
+}
